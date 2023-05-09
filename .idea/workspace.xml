@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecf6ffb1-9f94-4c6b-aa82-88a66d5c6351" name="Changes" comment="New commit" />
+    <list default="true" id="ecf6ffb1-9f94-4c6b-aa82-88a66d5c6351" name="Changes" comment="New commit1">
+      <change afterPath="$PROJECT_DIR$/src/Seminar2/seminar2Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar2/seminar2Task4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683625592442</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New commit1">
+      <created>1683625901455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683625901455</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
+    <MESSAGE value="New commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit1" />
   </component>
 </project>
